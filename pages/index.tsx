@@ -24,8 +24,8 @@ export default function Home() {
             Improve your front-end skills by building projects
           </h1>
           <h2 className="mt-4 mb-10 font-normal text-base text-gray text-center">
-            Scan the QR code to visit Mike van Peeren's website and take your
-            coding skills to the next level by contacting him!
+            Scan the QR code to visit Mike van Peeren&apos;s website and take
+            your coding skills to the next level by contacting him!
           </h2>
         </div>
       </div>
