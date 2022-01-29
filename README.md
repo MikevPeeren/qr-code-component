@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nextjs-tailwindcss-Ffg4Sh3yn)
-- Live Site URL: [Website](https://nft-preview-card-component-one.vercel.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-flex-component-with-text-animation-8Hr9raV7k)
+- Live Site URL: [Website](https://qr-code-component-iota.vercel.app/)
 
 ## My process
 
