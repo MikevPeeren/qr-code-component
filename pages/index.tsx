@@ -1,6 +1,5 @@
 import Head from "next/head";
 
-import { motion } from "framer-motion";
 import QRCode from "../components/QRCode";
 
 export default function Home() {
