@@ -1,4 +1,4 @@
-const QRCode = ({ className, fill }) => {
+const QRCode = ({ className }) => {
   return (
     <svg
       className={className}
@@ -7,7 +7,7 @@ const QRCode = ({ className, fill }) => {
       height="40"
       viewBox="0 0 792 792"
     >
-      <g fill={fill}>
+      <g>
         <g transform="translate(240,48) scale(4.12)">
           <circle cx="3" cy="3" r="3" />
         </g>

@@ -12,23 +12,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="min-h-screen flex flex-col justify-center items-center">
+      <div className="min-h-screen flex flex-col justify-center items-center bounce-in-top">
         <div className="bg-white shadow-2xl w-10/12 md:w-5/12 lg:w-4/12 xl:w-3/12 2xl:w-3/12 flex flex-col justify-center items-center rounded-2xl px-4">
           <div className="my-4 p-4 bg-blue w-full rounded-2xl">
-            <motion.div
-              animate={{
-                fill: ["#ffffff", "#2ce5fa", "#2cfaa8", "#fae52c", "#ffffff"],
-              }}
-              transition={{
-                duration: 15,
-                repeat: Infinity,
-                repeatType: "reverse",
-              }}
-            >
-              <div className="flex items-center justify-center">
-                <QRCode className={`w-full h-full`} />
-              </div>
-            </motion.div>
+            <div className="flex items-center justify-center">
+              <QRCode className={`w-full h-full color-change-3x`} />
+            </div>
           </div>
           <h1 className="mt-2 font-bold text-2xl text-dark-navy text-center">
             Improve your front-end skills by building projects
